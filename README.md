@@ -1,8 +1,7 @@
-KitchenKart 🍽️
+#KitchenKart 🍽️
 A Modern Food Delivery Web Application
 
-Tools & Technologies:
-
+🛠 Tools & Technologies
 Language: C#
 
 Database: Microsoft SQL Server
